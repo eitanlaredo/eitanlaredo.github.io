@@ -1,4 +1,7 @@
-![Profile](profile.jpg)
+<p align="center">
+  <img src="profile.jpg" width="200" style="border-radius: 50%;" />
+</p>
+
 
 # Data Science Portfolio by Eitan Laredo
 
