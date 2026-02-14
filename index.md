@@ -4,7 +4,7 @@ This portfolio is a compilation of projects and coursework demonstrating my expe
 
 ---
 
-## Stand-alone Projects
+## Projects
 
 ### **Yelp Review Sentiment Classification**
 
