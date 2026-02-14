@@ -1,3 +1,5 @@
+![Profile](profile.jpg)
+
 # Data Science Portfolio by Eitan Laredo
 
 This portfolio is a compilation of projects and coursework demonstrating my experience in data science, machine learning, and software development.
